@@ -1,6 +1,8 @@
 /*
 
 Cleaning Data in SQL Queries
+Skills used: Joins, CTEs, Data Type Conversion, String Manipulation, Conditional Logic, Data Aggregation,
+Data Standardization, Column Alteration, Null Handling.
 
 */
 
