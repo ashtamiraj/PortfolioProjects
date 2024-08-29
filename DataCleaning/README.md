@@ -11,7 +11,8 @@ The primary dataset used for this project is the "Nashville Housing Data for Dat
 ### Tools
 
 - Excel - Dataset  [Download Here](https://github.com/ashtamiraj/PortfolioProjects/blob/main/DataCleaning/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
-- SQL Server Management Studio - Data Cleaning and Manipulation
+- SQL - Data Cleaning and Manipulation.
+- SQL Server Management Studio - For executing SQL queries and managing the database.
 
 ### Data Cleaning Processes
 
