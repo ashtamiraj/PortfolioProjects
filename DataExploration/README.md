@@ -13,7 +13,7 @@ The primary datasets used for this project are the "CovidDeaths.xlsx" file and "
 
 - Excel - Datasets - CovidDeaths.xlsx [Download Here](https://github.com/ashtamiraj/PortfolioProjects/blob/main/DataExploration/CovidDeaths.xlsx), CovidVaccinations.xlsx [Download Here](https://github.com/ashtamiraj/PortfolioProjects/blob/main/DataExploration/CovidVaccinations.xlsx)
   
-- SQL: For querying and analyzing the data.
+- SQL - For querying and analyzing the data.
 
 - SQL Server Management Studio (SSMS) - For executing SQL queries and managing the database.
 
